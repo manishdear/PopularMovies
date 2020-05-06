@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="img_des_movie_poster">movie Poster</string>
+    <string name="no_movie_found">No movie Found!</string>
+    <string name="popular">Popular</string>
+    <string name="high_rated">High-Rated</string>
+    <string name="original_name_text">Original Name: </string>
+    <string name="rating_text">Rating:</string>
+    <string name="overview_text">Overview:</string>
+    <string name="release_date">Release date:</string>
+</resources>
